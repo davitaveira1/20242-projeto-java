@@ -16,7 +16,7 @@ public class Lista {
     public static void main(String[] args) {
         ArrayList<Integer> listaNumeros = new ArrayList<>();
         Scanner entrada = new Scanner(System.in);
-
+            
         listaNumeros.add(10);
         listaNumeros.add(20);
         listaNumeros.add(30);

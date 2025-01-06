@@ -9,7 +9,7 @@ package Ex04;
  * @author Davi
  */
 public class Pessoa {
-    
+        
     private String nome;
     
     String getNome(){

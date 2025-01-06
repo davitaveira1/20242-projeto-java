@@ -9,7 +9,7 @@ package Ex01;
  * @author Davi
  */
 public class Pessoa {
-    
+        
     String nome;
     String cpf;
     

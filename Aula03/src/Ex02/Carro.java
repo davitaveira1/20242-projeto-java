@@ -9,7 +9,7 @@ package Ex02;
  * @author Davi
  */
 public class Carro {
-    
+        
     String marca;
     String modelo;
     String cor;

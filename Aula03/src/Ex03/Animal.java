@@ -9,7 +9,7 @@ package Ex03;
  * @author Davi
  */
 public class Animal {
-    
+        
     String nome;
     int idade;
     
